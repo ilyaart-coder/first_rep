@@ -1,0 +1,53 @@
+
+> kyt-frontend-main@0.1.0 start
+> react-scripts start
+
+[34mi[39m [90m｢wds｣[39m: Project is running at http://10.8.1.28/
+[34mi[39m [90m｢wds｣[39m: webpack output is served from 
+[34mi[39m [90m｢wds｣[39m: Content not from webpack is served from C:\Users\REDMI\Desktop\frontend_KYT_ilya\public
+[34mi[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+Compiled with warnings.
+
+./src/common/styles/layout.scss (./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-6-1!./node_modules/postcss-loader/src??postcss!./node_modules/resolve-url-loader??ref--5-oneOf-6-3!./node_modules/sass-loader/dist/cjs.js??ref--5-oneOf-6-4!./src/common/styles/layout.scss)
+Warning
+
+(14001:3) end value has mixed support, consider using flex-end instead
+
+./src/common/styles/layout.scss (./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-6-1!./node_modules/postcss-loader/src??postcss!./node_modules/resolve-url-loader??ref--5-oneOf-6-3!./node_modules/sass-loader/dist/cjs.js??ref--5-oneOf-6-4!./src/common/styles/layout.scss)
+Warning
+
+(3399:3) end value has mixed support, consider using flex-end instead
+
+./src/common/styles/layout.scss (./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-6-1!./node_modules/postcss-loader/src??postcss!./node_modules/resolve-url-loader??ref--5-oneOf-6-3!./node_modules/sass-loader/dist/cjs.js??ref--5-oneOf-6-4!./src/common/styles/layout.scss)
+Warning
+
+(5015:5) end value has mixed support, consider using flex-end instead
+
+./src/common/styles/layout.scss (./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-6-1!./node_modules/postcss-loader/src??postcss!./node_modules/resolve-url-loader??ref--5-oneOf-6-3!./node_modules/sass-loader/dist/cjs.js??ref--5-oneOf-6-4!./src/common/styles/layout.scss)
+Warning
+
+(6204:5) end value has mixed support, consider using flex-end instead
+
+src\components\ClientsDetails\components\ClientsDetailsAlerts\components\ClientsDetailsAlertsContent\index.tsx
+  Line 79:95:  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+src\components\FastCheckDetails\componets\FastCheckDetailsRisks\index.tsx
+  Line 93:85:  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+src\components\TransfersDetails\components\TransfersDetailsRisks\index.tsx
+  Line 63:91:  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+src\components\Transfers\components\TransferFastRegistrationModal\components\TransferFastRegistrationAttemptForm\index.tsx
+  Line 137:70:  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+src\store\labels\effects.ts
+  Line 288:37:  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+src\utils\validationRules.ts
+  Line 100:67:  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
